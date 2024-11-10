@@ -1,0 +1,15 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+    /* position: fixed; */
+    right:0px;
+    top:800px;
+    z-index: 1000;
+}
